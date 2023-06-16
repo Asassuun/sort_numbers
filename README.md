@@ -1,0 +1,1 @@
+In this code, there is a function called sort_numbers which takes a list of numbers as input. Then, the sorted function is used to create a new sorted list of numbers. The sorted list is returned by the function and printed to the console.
